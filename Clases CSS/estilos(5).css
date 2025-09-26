@@ -1,0 +1,21 @@
+#blogamiguera {
+  background-color: #b37097; /* Un color de fondo gris claro */
+  color: #554e4e; /* Color de texto oscuro */
+  padding: 20px; /* Espaciado interno */
+  text-align: center; /* Alineación del texto al centro */
+  border-bottom: 2px solid #ccc; /* Una línea debajo del elemento */
+}
+
+#chismes {
+  background-color: #ffffff; /* Fondo blanco */
+  color: #555; /* Color de texto gris */
+  padding: 40px; /* Más espaciado para el contenido */
+  line-height: 1.6; /* Altura de línea para mejor legibilidad */
+}
+
+#gaga {
+  text-align: center;
+  padding: 15px;
+  background-color: #b37097;
+  margin-top: 60px;
+}
